@@ -1,1 +1,1 @@
-This is my BMI calculator.
+This is my BMI calculator
